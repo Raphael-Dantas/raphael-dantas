@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150"/>
  <div id="badges">
- <img src="https://komarev.com/ghpvc/?username=Shamslux&style=flat-square&color=blue" alt=""/><br>
+ <img src="https://komarev.com/ghpvc/?username=raphael-dantas&style=flat-square&color=blue" alt=""/><br>
  <h1>
-  hey there
+  Hello World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
